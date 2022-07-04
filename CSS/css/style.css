@@ -1,0 +1,20 @@
+h1{
+    color:blueviolet;
+}
+h2{
+color:blueviolet;
+}
+#main{
+    color: yellow;
+}
+.class1{
+    color:aquamarine;
+}
+#p1{
+    font-family: Arial;
+}
+#p2{
+    line-height:100px;
+    text-transform:uppercase;
+}
+
